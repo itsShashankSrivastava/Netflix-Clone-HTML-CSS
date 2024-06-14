@@ -1,4 +1,4 @@
-**Netflix Clone Project******
+**Netflix Clone Project**
 
 This project is a Netflix clone created using only HTML and CSS. It aims to replicate the user interface of Netflix, showcasing a header section with navigation, a hero banner, feature sections, frequently asked questions (FAQs) with an accordion-style interaction, and a footer with various links.
 
@@ -42,3 +42,15 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 **Credits**
 
 This project is made by Shashank Srivastava.
+
+**Preview Images**
+![image](https://github.com/itsShashankSrivastava/Netflix-Clone-HTML-CSS/assets/76199642/123da7d5-6204-43a3-a8ab-11f9ed4da26f)
+
+![image](https://github.com/itsShashankSrivastava/Netflix-Clone-HTML-CSS/assets/76199642/a9fbe1ce-5d50-44ec-a6f8-6fb099bd7988)
+
+![image](https://github.com/itsShashankSrivastava/Netflix-Clone-HTML-CSS/assets/76199642/efb71a88-1bd4-493b-baf4-8ade415ef0d9)
+
+![image](https://github.com/itsShashankSrivastava/Netflix-Clone-HTML-CSS/assets/76199642/21a8eb3c-1d26-4b0f-b3ab-6df7ff4d5905)
+
+
+
